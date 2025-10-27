@@ -90,14 +90,6 @@ Max Filtered     -> PSNR: 23.65, SSIM: 0.8103
    python main.py
    ```
 
----
-
-## 🖼️ Contoh Tampilan Program
-
-![Hasil Output](cake.png)
-
----
-
 ## ✍️ Penulis
 **Nama:** Raihan Fathir  
 **Mata Kuliah:** Citra Digital  
